@@ -1,0 +1,33 @@
+
+:root {
+    --colorBrandSandrift: #a99479;    
+    --colorBrandLocust: #9caf7d;    
+    --colorBrandNeptune: #77a7aa;    
+    --colorBrandVanilla: #ccb39f;    
+    --colorBrandPixie: #bfcea1;    
+    --colorBrandGlory: #9bcccc;    
+    --colorBrandCruise: #b5e2e1;    
+    --colorBrandTusk: #dfe8ba;    
+    --colorBrandAlmond: #efd9cb;    
+    --colorBrandBuquet: #aa778f;    
+    --colorBrandOchre: #c17f16;    
+    --colorBrandSherpa: #004454;    
+    --colorBrandCerulean: #0b657a;    
+    --colorBrandGold: #e59f2e;    
+    --colorBrandLily: #cc9eb7;    
+    --colorBrandMelanie: #e2b5cf;    
+    --colorBrandGrandis: #ffcd73;    
+    --colorBrandEastern: #0d8ba8;    
+    --colorWhite: #ffffff;    
+    --colorBrandPrimary10: #e5eef0;    
+    --colorGray10: #ececec;    
+    --colorGray100: #454545;    
+    --colorGray80: #6a6a6a;    
+    --colorGray40: #b5b5b5;    
+    --colorWarning: #f0b800;    
+    --colorError: #c13338;    
+    --colorSuccess: #107a10;    
+    --colorBrandPrimary: #005366;    
+    --colorBrandSecondary: #00758f;    
+    --colorBrandTertiary: #ffba3a;    
+}
